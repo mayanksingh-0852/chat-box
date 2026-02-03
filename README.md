@@ -16,7 +16,6 @@ A simple real-time chat application built with **WebSocket + Vanilla JavaScript*
 ---
 
 ## 🛠 Tech Stack
-
 * HTML
 * CSS
 * JavaScript (Vanilla)
